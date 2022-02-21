@@ -1,17 +1,17 @@
 # authoring
 ## GutHub Flavoured Markdown
 
-### - [] External Link
-### - [] Internal Link
-### - [] Images
-### - [] Emoji
-### - [] Table
+### - [x] External Link
+### - [x] Internal Link
+### - [x] Images
+### - [x] Emoji
+### - [x] Table
 
 [GitHub help](https://help.github.com/en)
 
 [images folder](images)
 
-![cat](https://github.com/MarinDabro/authoring/blob/main/images/4c672ce6-1703-48ed-af3d-a823b6e6753a_16x9_1200x676.jpeg?raw=true)
+![cat](images/4c672ce6-1703-48ed-af3d-a823b6e6753a_16x9_1200x676.jpeg)
 
 :joy:
 
@@ -20,8 +20,9 @@
 | Dimitry     | B1          |
 | Igor        | C4          |
 
-- [External Link](#external-link)
-- [Internal Link](#internal-link) 
-- [Images](#images)
-- [Emoji](#emoji)
-- [Table](#table)
+
+- [External Link](#x-external-link)
+- [Internal Link](#x-internal-link) 
+- [Images](#x-images)
+- [Emoji](#x-emoji)
+- [Table](#x-table)
