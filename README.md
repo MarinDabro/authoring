@@ -9,7 +9,7 @@
 
 [link] (#-external-link) [GitHub help](https://help.github.com/en)
 
-[images folder] (/images)
+[images folder] (images)
 
 ![cat](4c672ce6-1703-48ed-af3d-a823b6e6753a_16x9_1200x676.jpeg)
 
