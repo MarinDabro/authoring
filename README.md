@@ -20,8 +20,8 @@
 | Dimitry     | B1          |
 | Igor        | C4          |
 
-[External Link](#external-link)
-[Internal Link](#internal-link) 
-[Images](#images)
-[Emoji](emoji)
-[Table](table)
+- [External Link](#external-link)
+- [Internal Link](#internal-link) 
+- [Images](#images)
+- [Emoji](#emoji)
+- [Table](#table)
