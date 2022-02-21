@@ -7,7 +7,7 @@
 ### - [] Emoji
 ### - [] Table
 
-[link] (#-external-link) [GitHub help](https://help.github.com/en)
+[External Link] (#external-link) [GitHub help](https://help.github.com/en)
 
 [images folder](images)
 
