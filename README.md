@@ -7,7 +7,7 @@
 ### - [] Emoji
 ### - [] Table
 
-[External Link] (https://github.com/MarinDabro/authoring/blob/main/README.md#---external-link) [GitHub help](https://help.github.com/en)
+[External Link](https://github.com/MarinDabro/authoring/blob/main/README.md#---external-link) [GitHub help](https://help.github.com/en)
 
 [images folder](images)
 
